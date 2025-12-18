@@ -1,16 +1,48 @@
-## Hi there 👋
 
-<!--
-**anjeetyadav/anjeetyadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Anjeet Yadav
 
-Here are some ideas to get you started:
+🎯 Certified Data Analyst & ML/AI Professional  
+(Deloitte | Microsoft | Oracle)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Skills
+
+### Data Analysis & BI
+- Advanced Excel (Power Query, Power Pivot, Dashboards)
+- SQL (MySQL, PostgreSQL, CTEs, Window Functions)
+- Power BI (DAX, Data Modelling)
+- Tableau (Calculated Fields, Interactive Dashboards)
+- Data Cleaning & EDA
+
+### Machine Learning & AI
+- Python (Pandas, NumPy, Scikit-learn)
+- Regression & Classification
+- Clustering
+- Feature Engineering
+- Model Evaluation
+
+### Mathematics & Statistics
+- Strong Mathematics
+- Probability & Statistics
+- Hypothesis Testing
+- Correlation & Regression
+- Logical & Quantitative Reasoning
+
+---
+
+## 🏆 Certifications
+- Deloitte Data Analyst Certification
+- Microsoft Data Analyst Certification
+- Oracle Machine Learning & AI Certification
+
+---
+
+## 📊 Projects
+➡️ Check my repositories for real-world analytics & ML projects.
+
+---
+
+## 📫 Connect with Me
+- LINKEDIN https://www.linkedin.com/in/anjeet-yadav-573970227
+
