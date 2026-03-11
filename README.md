@@ -73,8 +73,8 @@ Oracle Machine Learning
 
 ## 🌐 Portfolio
 
-Portfolio Website: https://anjeetyadav.github.io/
-
+Portfolio Website:[anjeetyadav.github.io
+](https://anjeetyadav.github.io/)
 
 ## 📫 Contact
 
@@ -82,4 +82,5 @@ Email: anjeetyadav887@gmail.com
 
 LinkedIn: [linkedin.com/in/anjeet-yadav-573970227 
 ](https://www.linkedin.com/in/anjeet-yadav-573970227/)
+
 GitHub: https://github.com/anjeetyadav
