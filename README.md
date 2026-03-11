@@ -64,10 +64,13 @@ Jupyter Notebook
 
 ## 🏆 Certifications
 
-Google Data Analytics
-Microsoft Power BI
-Deloitte Tableau
-Oracle Machine Learning
+**Google Data Analytics**
+
+**Microsoft Power BI**
+
+**Deloitte Tableau**
+
+**Oracle AI & Machine Learning**
 
 ---
 
