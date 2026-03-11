@@ -5,6 +5,7 @@
 📍 Bangalore, India
 
 I am a Data Analyst with a strong interest in **mathematical modeling**, statistical analysis, and data-driven **decision making**.
+
 My work focuses on transforming raw data into **quantitative insights** using SQL, Python, and Business Intelligence tools.
 
 I enjoy solving real-world business problems through **statistical reasoning, exploratory data analysis, and predictive thinking**.
@@ -14,10 +15,15 @@ I enjoy solving real-world business problems through **statistical reasoning, ex
 ## 🔬 Analytical Skills
 
 • Exploratory Data Analysis (EDA)
+
 • Statistical Analysis
+
 • Data Cleaning & Feature Engineering
+
 • Hypothesis Testing
+
 • Trend & Pattern Detection
+
 • Business Metrics Analysis
 
 ---
@@ -25,10 +31,15 @@ I enjoy solving real-world business problems through **statistical reasoning, ex
 ## 🧰 Tools & Technologies
 
 SQL
+
 Python (Pandas, NumPy)
+
 Power BI
+
 Tableau
+
 Advanced Excel
+
 Jupyter Notebook
 
 ---
@@ -38,17 +49,21 @@ Jupyter Notebook
 ### Customer Sales Analytics Dashboard
 
 • Performed sales trend analysis using SQL queries and statistical aggregation.
+
 • Built Power BI dashboards to visualize revenue growth and customer segmentation.
+
 • Identified key metrics driving business performance.
 
 ### Student Productivity Dashboard
 
 • Conducted data analysis on student performance and attendance datasets.
+
 • Applied statistical summaries and visualization techniques to identify productivity trends.
 
 ### Amazon Product Analysis
 
 • Performed pricing and rating analysis across product categories.
+
 • Identified relationships between product ratings, pricing, and customer demand.
 
 ---
@@ -56,8 +71,11 @@ Jupyter Notebook
 ## 📈 Analytical Focus
 
 • Quantitative Data Analysis
+
 • Business Intelligence & KPI Monitoring
+
 • Statistical Insight Generation
+
 • Data Visualization & Storytelling
 
 ---
