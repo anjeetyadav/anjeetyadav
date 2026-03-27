@@ -1,4 +1,4 @@
-# Hi, I'm Anjeet Yadav 👋
+# Hi, I'm Anjeet Yadav 
 
 📊 **Data Analyst | Quantitative Analysis | Statistical Modeling | Data Visualization**
 
